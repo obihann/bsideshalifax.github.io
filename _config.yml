@@ -23,7 +23,15 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 # Organizer Info
 organizerName: "BSides Halifax"
 organizerAlternateName: "Halifax BSides"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Cyber Security with passion."
+organizerDescription: "
+In Halifax, we usually host a conference called AtlSecCon (Atlantic Security Conference) this time of year. And 2020 was going to be the best year ever! It was the tenth anniversary, and everyone was really looking forward to a party... in a big crowded room... with plenty of people constantly breathing in and out...
+
+Anyway, things have changed, and AtlSecCon's tenth anniversary will now be held in 2020++ (aka 2021). But that doesn't mean security takes a break!
+
+In fact, since we're all online more than ever, it's the perfect time to examine your personal and professional security posture, to see if there's anything that could be improved, or any holes that need patching.
+We'll be hosting BSides Halifax on May 22nd, and you can attend from the safety of your home/secured bunker/government-mandated temporary quarantine facility by logging on to bsideshalifax.ca at 10AM Atlantic (9AM Eastern)."
+
+
 organizerEmail: "info@bsideshalifax.ca"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://bsideshalifax.ca"
